@@ -34,5 +34,9 @@ class CalculatorViewController: UIViewController {
     func callMeFromView() {
         
     }
+    
+    func problemsWithGit() {
+        
+    }
 }
 
